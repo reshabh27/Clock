@@ -1,12 +1,12 @@
 body
 {
-    background-image: url("img/clock8.jpg");
+    background-image: url("clock8.jpg");
     /* background: linear-gradient(50deg,#142bff, #52ff3b, #ff0000); */
     background-position: center;
 }
 #backim{
     width: 450px;
-    background-image: url("img/clock8.jpg");
+    background-image: url("clock8.jpg");
     border-style: solid;
     border-width: 4px;
     border-color: blueviolet;
@@ -25,7 +25,7 @@ h1
     height: 40vw;
     /*to make the height and width responsive*/
     width: 40vw;
-    background-image: url("img/clock.jpg") ;
+    background-image: url("clock.jpg") ;
     /*setting our background image*/
     background-size: 100%;
 }
